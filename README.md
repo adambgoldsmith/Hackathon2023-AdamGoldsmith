@@ -32,7 +32,7 @@ Excuse the (much) less than perfect .py file.
 I am used to engines like unity, godot, and unreal, so trying out pygame for the first time was interesting.
 
 Not being able to see and manipulate objects in a scene makes it much more challenging to get things to work properly.
-Pygame uses simple x and y coordinate system to map rectangular objects to the screen, so it took a lot of trial and error
+Pygame uses a simple x and y coordinate system to map rectangular objects to the screen, so it took a lot of trial and error
 to get sprites into the exact positions that I needed them to be in.
 
 I started off watching a tutorial that didn't use classes to create objects. Even though that one tutorial was all I needed to
