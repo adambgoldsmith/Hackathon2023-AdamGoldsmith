@@ -19,14 +19,12 @@ Pygame uses simple x and y coordinate system to map rectangular objects to the s
 to get sprites into the exact positions that I needed them to be in.
 
 I started off watching a tutorial that didn't use classes to create objects. Even though that one tutorial was all I needed to
-understand pretty much everything about pygame, not using classes was a BIG BIG BIG mistake. I ended up making way to many unnecessary
+understand pretty much everything about pygame, not using classes was a BIG BIG BIG mistake. I ended up making way too many unnecessary
 functions that could have been turned into simple class methods.
 
 An extended problem of not using classes came up when I wanted to change the sprites of the characters. Because python is pass-by-value,
 I couldn't change the sprites through a function call and instead had to use mutable lists to globally change the sprites. This was
 also the case with checking if the player was blocking or not.
-
-Jummbox/Beepbox is king 
 
 ### What would I change:
 
@@ -36,5 +34,5 @@ Organization: My main module is a mess and could use a spring cleaning. I don't 
 
 Nested ifs: Too many. gross. 
 
-Sprites/art: I really like all of the python character's sprites; The java character's sprites, I like a lot less. If I had
+Sprites/art: I really like all of the python character's sprites; The java character's sprites, not so much. If I had
 more time I would have refined the java sprites and made more interesting art for him.
