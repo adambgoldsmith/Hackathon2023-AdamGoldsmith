@@ -3,6 +3,23 @@
 ## This is my unofficial entry for the "Hack the break 2023" hackathon. I unfortunately missed the sign up, but I wanted to participate nonetheless.
 
 ## Python Vs Java
+
+CONTROLS:
+
+Python
+- A , D ~ Move left and right
+- C ~ Bite attack
+- V ~ Tail attack
+- B ~ Block
+
+Java
+- LEFT ARROW , RIGHT ARROW ~ Move left and right
+- M ~ Coffee attack
+- COMMA (,) ~ Mouse attack
+- PERIOD (.) ~ Block
+
+## About the game
+
 Tech used: Pygame, Aseprite, jsfxr, Beepbox(Jummbox)
 
 I made this small street fighter/mortal kombat style game in around 36 hours.
