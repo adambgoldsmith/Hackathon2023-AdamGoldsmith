@@ -36,3 +36,12 @@ Nested ifs: Too many. gross.
 
 Sprites/art: I really like all of the python character's sprites; The java character's sprites, not so much. If I had
 more time I would have refined the java sprites and made more interesting art for him.
+
+---
+
+![image](https://user-images.githubusercontent.com/52685070/224569633-48d5b85a-29e5-4516-b73f-6d2b42b01ca2.png)
+
+![image](https://user-images.githubusercontent.com/52685070/224569780-29fd8ed8-7fc4-45cb-a36f-477bc0fc8086.png)
+
+![image](https://user-images.githubusercontent.com/52685070/224569809-87eb7919-9c59-4bb6-a731-6c9ef652eda7.png)
+
