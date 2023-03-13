@@ -54,6 +54,8 @@ Nested ifs: Too many. gross.
 Sprites/art: I really like all of the python character's sprites; The java character's sprites, not so much. If I had
 more time I would have refined the java sprites and made more interesting art for him.
 
+UI: I didn't quite have time to make a menu GUI or a restart button. These are things that would have made for a full gameplay loop.
+
 ---
 
 ![image](https://user-images.githubusercontent.com/52685070/224569633-48d5b85a-29e5-4516-b73f-6d2b42b01ca2.png)
