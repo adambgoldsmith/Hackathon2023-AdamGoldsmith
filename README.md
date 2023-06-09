@@ -1,4 +1,4 @@
-# Hackathon2023-AdamGoldsmith
+# Python vs Java (Hackathon2023)
 
 ## This is my unofficial entry for the "Hack the break 2023" hackathon. I unfortunately missed the sign up, but I wanted to participate nonetheless.
 
