@@ -47,14 +47,13 @@ also the case with checking if the player was blocking or not.
 
 Classes: 90% of my issues would be solved if I had known classes were best practice.
 
-Organization: My main module is a mess and could use a spring cleaning. I don't think it's too awful for 36 hours minus sleeping time though.
-
-Nested ifs: Too many. gross. 
+Organization: My main module is a mess and could use a solid cleanup. I don't think it's too awful for 36 hours minus sleeping time though.
 
 Sprites/art: I really like all of the python character's sprites; The java character's sprites, not so much. If I had
 more time I would have refined the java sprites and made more interesting art for him.
 
-UI: I didn't quite have time to make a menu GUI or a restart button. These are things that would have made for a full gameplay loop.
+UI: I didn't quite have time to make a menu GUI, a restart button, or design new health bars. These are things that would have made for a full gameplay loop
+and a much more presentable end product.
 
 ---
 
